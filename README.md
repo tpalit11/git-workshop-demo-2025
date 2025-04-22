@@ -7,7 +7,7 @@
 ## Other Links
 
 ### [2-Page Git Cheat-Sheet (PDF)](https://raw.githubusercontent.com/radmanesh/git-workshop-demo-2025/refs/heads/main/CheatSheet.pdf)
-
+### [Wiki (NEW!)][https://github.com/radmanesh/git-workshop-demo-2025/wiki]
 [Git Introduction Workshop (Word)](https://sooners-my.sharepoint.com/:w:/r/personal/radmanesh_ou_edu/Documents/Git%20Introduction%20Workshop.docx?d=wdc22cdcb84e748809bd5b0f1e101d0c8&csf=1&web=1&e=pX0kRV)
 
 ---
